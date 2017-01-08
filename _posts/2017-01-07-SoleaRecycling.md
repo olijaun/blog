@@ -2,7 +2,7 @@
 layout: post
 title:  "Flamenco Guitar Falseta Recycling: Use Solea falsetas in Buleria"
 date:   2017-01-07 20:00:00
-categories: Flamenco, Guitar, Falsetas, Composition
+categories: Flamenco Guitar Falsetas Composition
 comments: true
 summary: This post shows how solea flamenco guitar falsetas can be modified in order to be used in buleria. 
 excerpt_separator: <!--more-->
