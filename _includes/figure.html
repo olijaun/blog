@@ -1,0 +1,11 @@
+[comment]: <> (see https://github.com/opattison/jekyll-figure-image-tag)
+[comment]: <> (http://graphicdesign.stackexchange.com/questions/21635/getting-rid-of-whitespace-in-inkscape)
+
+<figure class="image-wrapper">
+    <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
+    {% if include.caption %}
+    <figcaption class="image-caption">
+        <p>{{ include.caption }}</p>
+    </figcaption>
+    {% endif %}
+</figure>
