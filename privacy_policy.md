@@ -2,6 +2,7 @@
 layout: default
 title: About
 navid: about
+sitemap: false
 ---
 
 # Privacy Policy
@@ -29,7 +30,7 @@ Google appears on this Website as a third party vendor, and uses cookies to serv
 
 ## Comments
 
-This site does not directly implement a comment function but uses a third party tool (Disquss) for this purpose which is integrated into the site. Please visit the Disquss webpage for more information regarding privacy but keep in mind that usually at least the following applies.
+This site does not directly implement a comment function but uses a third party tool (Disqus) for this purpose which is integrated into the site. Please visit the Disqus webpage for more information regarding privacy but keep in mind that usually at least the following applies.
 
 When you leave a comment, your IP (internet protocol) address is recorded. For more information about IP addresses visit IP Address (Wikipedia). 
 This information can be used to block or ban users from the Website. 
