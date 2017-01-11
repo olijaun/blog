@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flamenco Guitar Falseta Recycling: Use Solea falsetas in Buleria"
+title:  "Falseta Recycling: Use Solea falsetas in Buleria"
 date:   2017-01-07 20:00:00
 last_modified_at: 2017-01-11 19:39:00
 categories: Flamenco Guitar Composition Falseta
@@ -9,7 +9,7 @@ summary: This post shows how solea flamenco guitar falsetas can be modified in o
 excerpt_separator: <!--more-->
 ---
 
-Buleria is probably one of the most popular palos (styles) among flamenco guitar players. When I started accompanying flamenco cante I had quite many of them in my repertoire and if felt prepared. But then the cantaor (singer) told be that he wants to sing "en el 4 por arriba". This means I had to put the cejilla (capodaster) in the 5th fret and play in the key of E phrygian (which is actually Ab phrygian). However all the falsetas I knew were "por medio" which means in A phrygian. So what to do? 
+Buleria is probably one of the most popular palos (styles) among flamenco guitar players. When I started accompanying flamenco cante I had quite many of them in my repertoire and if felt prepared. But then the cantaor (singer) told be that he wants to sing "en el 4 por arriba". This means I had to put the cejilla (capodaster) in the 4th fret and play in the key of E phrygian (which is actually Ab phrygian). However all the falsetas I knew were "por medio" which means in A phrygian. So what to do? 
 <!--more-->
 
 If you want to play por medio then you have to put the cejilla in the 11th fret, which is obviously not a solution. There are some exotic solutions like playing without cejilla in Ab phrygian or playing in the 5th fret in the position of Eb phrygian. But if you don't know any falseta in E phrygian you probably don't know any in these positions neither.

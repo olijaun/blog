@@ -3,8 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="description" content="{{ page.summary }}">
+  <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
   <link rel="icon" href="../../favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Bungee|Vollkorn" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/css/blog.css" | prepend: site.baseurl }}" type='text/css'>
@@ -25,7 +25,7 @@
 
   </script>
 
-  <title>Oliver's Flamenco Blog</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <!-- Bootstrap core CSS -->
   <!--link href="../../dist/css/bootstrap.min.css" rel="stylesheet"-->

@@ -1,12 +1,14 @@
 # Site settings
-title: Oliver Jaun
+title: Oliver's Flamenco Blog
 email: oliver@jaun.org
 description: > # this means to ignore newlines until "baseurl:"
-  Oliver's Flamenco Blog
+  Blog about flamenco in general and flamenco guitar
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://flamenco.jaun.org" # the base hostname & protocol for your site
 #github_username:  olijaun
-
+author: Oliver Jaun
+author_about: /about
+permalink: /:day/:month/:year/:title/
 # Build settings
 markdown: kramdown
 gems:
