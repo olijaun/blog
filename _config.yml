@@ -8,7 +8,7 @@ url: "http://flamenco.jaun.org" # the base hostname & protocol for your site
 #github_username:  olijaun
 author: Oliver Jaun
 author_about: /about
-permalink: /:day/:month/:year/:title/
+permalink: /blog/:year/:month/:title
 # Build settings
 markdown: kramdown
 gems:
